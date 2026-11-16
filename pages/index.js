@@ -51,10 +51,10 @@ export default function Home() {
 	};
 
 	const coreServices = [
-		{ img: "/images/main/patient-specific-implants.webp", title: "Patient Specific Implants", desc: "Custom-designed implants using CT/MRI data for orthopedic, cranial, maxillofacial and reconstructive surgeries.", link: "/patient-specific-implants-demo" },
-		{ img: "/images/main/custom-3d-surgical-guides.webp", title: "Custom 3D Printed Surgical Guides", desc: "Patient-specific surgical guides that improve accuracy, reduce operative time and ensure better outcomes.", link: "/custom-3d-printed-surgical-guides-demo" },
-		{ img: "/images/main/virtual-surgical-planning-modeling.webp", title: "Virtual Surgical Planning", desc: "Advanced digital planning to simulate surgeries, optimize implant design and reduce intraoperative uncertainties.", link: "/virtual-surgical-planning-demo" },
-		{ img: "/images/main/custom-3d-anatomical-models.webp", title: "3D Surgical Models", desc: "High accuracy anatomical models for surgical planning, patient communication and medical education.", link: "/3d-surgical-models-demo" },
+		{ img: "/images/main/patient-specific-implants.webp", title: "Patient Specific Implants", desc: "Custom-designed implants using CT/MRI data for orthopedic, cranial, maxillofacial and reconstructive surgeries.", link: "/patient-specific-implants" },
+		{ img: "/images/main/custom-3d-surgical-guides.webp", title: "Custom 3D Printed Surgical Guides", desc: "Patient-specific surgical guides that improve accuracy, reduce operative time and ensure better outcomes.", link: "/custom-3d-printed-surgical-guides" },
+		{ img: "/images/main/virtual-surgical-planning-modeling.webp", title: "Virtual Surgical Planning", desc: "Advanced digital planning to simulate surgeries, optimize implant design and reduce intraoperative uncertainties.", link: "/virtual-surgical-planning" },
+		{ img: "/images/main/custom-3d-anatomical-models.webp", title: "3D Surgical Models", desc: "High accuracy anatomical models for surgical planning, patient communication and medical education.", link: "/3d-surgical-models" },
 	];
 
 	const howWeWork = [
