@@ -253,7 +253,7 @@ export default function Home() {
 							<div class="row g-0 align-items-center">
 								<div class="col-md-12 col-xl-6">
 									<div class="video-box pr-30">
-										<img src="/images/main/service/simple-workflow.jpg" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model" />
+										<img src="/images/main/service/What-is-Virtual-Surgery-Planning.webp" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model" />
 									</div>
 								</div>
 								<div class="col-md-12 col-xl-6">
@@ -367,7 +367,7 @@ export default function Home() {
 
 								<div class="col-md-12 col-xl-6">
 									<div class="video-box pr-30">
-										<img src="/images/main/service/simple-workflow.jpg" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model" />
+										<img src="/images/main/service/Why-Virtual-Surgery-Planning-Matters.webp" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model" />
 									</div>
 								</div>
 							</div>
@@ -381,7 +381,7 @@ export default function Home() {
 							<div class="row g-0 align-items-center">
 								<div class="col-md-12 col-xl-6">
 									<div class="video-box pr-30">
-										<img src="/images/main/service/simple-workflow.jpg" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model" />
+										<img src="/images/main/service/Benefits-of-Virtual-Surgical-Planning.webp" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model" />
 									</div>
 								</div>
 								<div class="col-md-12 col-xl-6">

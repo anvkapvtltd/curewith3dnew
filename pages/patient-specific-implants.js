@@ -299,7 +299,7 @@ export default function Home() {
 							<div class="row g-0 align-items-center">
 								<div class="col-md-12 col-xl-6">
 									<div class="video-box pr-30">
-										<img src="/images/main/service/simple-workflow.jpg" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
+										<img src="/images/main/service/What-You-Gain-with-CureWith3D-Implants.webp" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
 									</div>
 								</div>
 								<div class="col-md-12 col-xl-6">
@@ -389,7 +389,7 @@ export default function Home() {
 							<div class="row g-0 align-items-center">
 								<div class="col-md-12 col-xl-6">
 									<div class="video-box pr-30">
-										<img src="/images/main/service/simple-workflow.jpg" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
+										<img src="/images/main/service/What-are-Patient-Specific-Implants.webp" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
 									</div>
 								</div>
 								<div class="col-md-12 col-xl-6">
@@ -764,7 +764,7 @@ export default function Home() {
 
 								<div class="col-md-12 col-xl-6">
 									<div class="video-box pr-30">
-										<img src="/images/main/service/simple-workflow.jpg" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
+										<img src="/images/main/service/Advanced-Technology-&-Materials.webp" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
 									</div>
 								</div>								
 							</div>
@@ -985,7 +985,7 @@ export default function Home() {
 
 								<div class="col-md-12 col-xl-6">
 									<div class="video-box pr-30">
-										<img src="/images/main/service/simple-workflow.jpg" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
+										<img src="/images/main/service/Selecting-the-Right-Material-for-Every-Patient.webp" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
 									</div>
 								</div>								
 							</div>

@@ -222,7 +222,7 @@ export default function CustomSurgicalGuides() {
 								</div>
 								<div class="col-md-12 col-xl-6">
 									<div class="video-box pr-30">
-										<img src="/images/main/service/simple-workflow.jpg" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
+										<img src="/images/main/service/Specific-Surgical-Guide.webp" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
 									</div>
 								</div>
 								<div class="col-md-12 col-xl-6">
@@ -441,7 +441,7 @@ export default function CustomSurgicalGuides() {
 							<div class="row g-0 align-items-center">
 								<div class="col-md-12 col-xl-6">
 									<div class="video-box pr-30">
-										<img src="/images/main/service/simple-workflow.jpg" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
+										<img src="/images/main/service/Benefits-of-Guides-for-Surgeons.webp" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
 									</div>
 								</div>
 								<div class="col-md-12 col-xl-6">
@@ -482,7 +482,7 @@ export default function CustomSurgicalGuides() {
 								</div>
 								<div class="col-md-12 col-xl-6">
 									<div class="video-box pr-30">
-										<img src="/images/main/service/simple-workflow.jpg" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
+										<img src="/images/main/service/Common-Clinical-Applications.webp" class="img-fluid w-100 imgreduis20" alt="Brain Anatomy Model"/>
 									</div>
 								</div>
 								<div class="col-md-12 col-xl-6">
